@@ -1,0 +1,6 @@
+# JetBrains IntelliJ IdeaIU
+/.idea/
+/gitlab-search.iml
+
+# Apache Maven
+/target/
